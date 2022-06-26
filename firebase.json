@@ -5,7 +5,10 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**",
-      "**/.git/**"
+      "**/.git/**",
+      "**/.github/**",
+      "package.json",
+      "package-lock.json"
     ]
   }
 }
